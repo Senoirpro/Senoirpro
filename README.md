@@ -1,4 +1,4 @@
-- 👋 Hi, We are computer science students this acount created for Senoir project
+- 👋 Hi, We are computer science students this account created for Senoir project
 - 👀 We are interested in programming
 - 🌱 We are currently working on a project
 
